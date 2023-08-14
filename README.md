@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm aaronplayz-sys (also known as AaronPlayz)</h1>
+<h1 align="center">Hi 👋, I'm aaronplayz-sys (also known as AaronPlayz</h1>
 <h3 align="center">A chill dude you likes to code and play video games.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronplayz-sys" alt="aaronplayz-sys" /></a> </p>
 
 - 🔭 I’m currently working on **My website (private repo)**
 
@@ -9,9 +11,14 @@
 
 - 📫 How to reach me **aaron@aaronplayzgaming.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/@aaronplayzdagamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aaronplayzdagamer" height="30" width="40" /></a>
+<a href="/https://www.aaronplayzgaming.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.aaronplayzgaming.com/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
