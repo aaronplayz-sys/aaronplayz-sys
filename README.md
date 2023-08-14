@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm aaronplayz-sys (also known as AaronPlayz</h1>
+<h1 align="center">Hi 👋, I'm aaronplayz-sys (also known as AaronPlayz)</h1>
 <h3 align="center">A chill dude you likes to code and play video games.</h3>
 
 - 🔭 I’m currently working on **My website (private repo)**
