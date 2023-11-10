@@ -21,11 +21,7 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=aaronplayz-sys&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AaronPlayzGaming) 
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AaronPlayzGaming) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
