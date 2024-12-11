@@ -2,7 +2,7 @@
 <h3 align="center">A chill dude who likes to code and play video games.</h3>
 
 # 💫 About Me:
-🔭 What I’m currently working on:<br> My website (private repo) -  My personal website based on Markdown.<br> [GreenLionGamingWebsite](https://github.com/Green-Lion-Gaming/GreenLionGamingWebsite) - A gaming storefront steam like project for college.<br><br>👨‍💻 All of my projects are available at https://www.aaronplayzgaming.com/projects/<br><br>📝 I write articles every now and then on https://www.aaronplayzgaming.com/blog/<br><br>📫 How to reach me aaron@aaronplayzgaming.com<br>
+🔭 What I’m currently working on:<br> My [website](https://github.com/aaronplayz-sys/aaronplayz-sys.github.io) -  My personal website based on Markdown.<br> [GreenLionGamingWebsite](https://github.com/Green-Lion-Gaming/GreenLionGamingWebsite) - A gaming storefront steam like project for college.<br><br>👨‍💻 All of my projects are available at https://www.aaronplayzgaming.com/projects/<br><br>📝 I write articles every now and then on https://www.aaronplayzgaming.com/blog/<br><br>📫 How to reach me aaron@aaronplayzgaming.com<br>
 
 
 ## 🌐 Socials:
